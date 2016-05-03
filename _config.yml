@@ -1,0 +1,14 @@
+layout_spectrum: 0.2722638491541147
+typography_spectrum: 0.9773359962273389
+color:
+  brandStrength: 0.2525635343044996
+  lightness: 0.9883619325701147
+  saturation: 0.1560022581834346
+  rhythmicContrast: 0.7824431445915252
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: d5
